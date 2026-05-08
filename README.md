@@ -116,7 +116,7 @@ const ikxlas = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,js,firebase,kotlin,vue.js" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,js,firebase,kotlin,vue,php,laravel" />
 
 </div>
 

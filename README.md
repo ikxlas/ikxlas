@@ -14,7 +14,9 @@
 <tr>
 <td width="40%">
 
-<img src="https://i.pinimg.com/736x/7b/9d/4f/7b9d4f6b2f0e5fdbf5f2d7f0bbf6c5f4.jpg" width="100%" />
+<p align="center">
+  <img src="./assets/profile.jpeg" width="220"/>
+</p>
 
 <br>
 
@@ -56,7 +58,7 @@
 Ikhlas Sahputra
 
 > role
-Mobile Developer / Informatics Student
+Mobile Developer 
 
 > focus
 Flutter • Firebase • UI/UX • Realtime Apps
@@ -83,7 +85,7 @@ Learning. Building. Improving.
 
 ```javascript
 const ikxlas = {
-    code: ["Dart", "JavaScript", "PHP"],
+    code: ["Dart", "JavaScript", "Kotlin"],
 
     technologies: {
         mobile: ["Flutter"],
@@ -114,7 +116,7 @@ const ikxlas = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,php,git,github,vscode,figma,html,css,tailwind,mysql" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,js,firebase,kotlin,vue.js" />
 
 </div>
 
@@ -124,9 +126,9 @@ const ikxlas = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikxlas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ikxlas&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikxlas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikxlas&theme=tokyonight"/>
 
 </div>
 
@@ -135,12 +137,7 @@ const ikxlas = {
 # 🔥 CURRENTLY LEARNING
 
 ```txt
-> Advanced Flutter Architecture
-> Clean Code & Design Pattern
-> Firebase Backend Integration
-> Real-time Mobile Systems
-> Scalable Application Design
-> Backend Development with Node.js
+> Backend Learning
 ```
 
 ---

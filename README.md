@@ -2,7 +2,7 @@
 
 # 01101001 01101011 01111000 01101100 01100001 01110011
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;MOBILE+DEVELOPER;FLUTTER+ENGINEER;BUILDING+REALTIME+SYSTEMS;WELCOME+TO+IKXLAS+PROFILE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;MOBILE+DEVELOPER;WELCOME+TO+IKXLAS+PROFILE" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 

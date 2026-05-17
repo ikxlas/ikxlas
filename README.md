@@ -69,16 +69,6 @@ Learning. Building. Improving.
 
 ---
 
-# ⚡ SYSTEM STATUS
-
-| Component        | Status |
-|------------------|--------|
-| Flutter          | 🟢 ONLINE |
-| Firebase         | 🟢 ONLINE |
-| UI/UX            | 🟢 ONLINE |
-| Backend Learning | 🟡 IN PROGRESS |
-| Sleep Schedule   | 🔴 ERROR |
-
 ---
 
 # 🧠 ABOUT_ME.exe
